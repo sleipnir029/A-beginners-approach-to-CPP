@@ -1,1 +1,5 @@
 # A Beginner's Approach to C++
+
+Whoever reading this, I welcome you to my journey. I have always been [fascinated with](https://www.quora.com/Which-is-correct-fascinated-with-or-fascinated-by "Which is correct: 'fascinated with' or 'fascinated by'?") computers, how they work and all. I tried many ways over the years to quench my thirst for knowledge and understanding the topics. Sometimes I've succeeded and other times failed miserably. I guess this time will be more despairing, but I'll try my best. 
+
+Recently, my [friend](https://github.com/azmainadel "🛠🔧") suggested me the [answer](https://www.quora.com/How-do-I-start-learning-or-strengthen-my-knowledge-of-data-structures-and-algorithms/answers/27366493?srid=mxNU&share=0f34a64d) to my [questions](https://www.youtube.com/watch?v=aboZctrHfK8 "The Ultimate Question of Life, the Universe and Everything") and I've liked it very much. So from this day onwards, I'm staring my journey through an endless stream of knowledge flowing like matter and light towards a blackhole. 
