@@ -1,3 +1,5 @@
+/* multiply two square matrices */
+
 #include <iostream>
 
 using namespace std;
