@@ -1,3 +1,6 @@
+/* find sum of elements in a given array */
+
+
 #include <iostream>
 
 using namespace std;
